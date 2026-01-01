@@ -4,4 +4,4 @@
 - [基本レギュレーション](/砲雷戦(マルチ用).md)
 - [航空機アタッチメント](/砲雷戦-航空機アタッチメント.md)
 - [艦隊決戦アタッチメント](/砲雷戦-艦隊決戦アタッチメント.md)
-- [よくある質問](https://github.com/gJgDqVJrP7/Hourai/issues/5)
+- [よくある質問](https://github.com/gJgDqVJrP7/Hourai/wiki/一問一答)
